@@ -1,0 +1,658 @@
+ACTION,Adventurer,Researcher,Artisan,Traveler,Butler,Leader,Judge,Clergy,Pacifist,Solo Player,Bancho,Runner,Challenger,Planner,Samurai,Philosopher,Martial Artist,Clown,Sage,Hero,Gambler,Merchant,Collector
+Started the game,0,0,0,0,-2,0,-1,-1,0,2,0,0,0,0,-6,4,0,0,0,0,0,0,0
+Delayed progress of test,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,0,-2,0,0,0
+Didn't delay progress of test,0,0,0,0,0,0,0,0,2,2,0,4,0,-4,0,0,2,2,0,0,0,0,0
+Finished within 20 minutes,0,0,0,0,0,0,0,0,0,0,0,4,0,-4,0,0,0,0,0,0,0,0,0
+Finished within 25 minutes,0,0,0,0,0,0,0,0,0,0,0,2,0,-2,0,0,0,0,0,0,0,0,0
+Finished within 30 minutes,0,0,0,0,0,0,0,0,0,0,0,2,0,-2,0,0,0,0,0,0,0,0,0
+Finished after 60 minutes,0,0,0,0,0,0,0,0,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,0
+Finished after 65 minutes,2,0,0,0,0,0,0,0,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,0
+Finished after 70 minutes,2,0,0,0,0,0,0,0,0,0,0,-4,0,4,0,0,0,0,0,0,0,0,0
+Checked the map 3 times,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Checked the map 7 times,2,0,0,0,0,0,0,0,0,0,-2,0,0,2,0,0,0,0,0,0,-1,0,0
+Checked the map 12 times,4,0,0,0,0,0,0,0,0,0,-4,0,0,4,0,0,0,0,0,0,-1,0,0
+"During the divination, touched the crystal at the same time all three times",0,0,-2,2,-2,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"During the divination, touched the crystal at the appropriate moment",0,0,2,-2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Finished the divination within 3 seconds,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,-2,0,0,0,0,0,0,0
+Took more than 10 seconds to finish the divination,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,-2,2,0,0,0,0,0,0,0
+Kept clicking even after the divination was over,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,-2,0,-2,0,0,0,2
+Forced the safe open,0,0,0,0,0,0,0,0,0,0,6,0,2,-4,0,0,0,0,0,2,0,0,2
+Didn't open the safe,0,0,0,0,0,0,2,0,0,0,-4,0,-2,4,0,0,0,0,0,0,0,0,0
+Continued down the coast,2,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0
+Walked far down the coast,4,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0
+Walked way down the coast,8,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,0,0,0
+Didn't hesitate when deciding name,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered when deciding name,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate to quit High-Low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered quitting High-Low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate to finish sheep-painting game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered finishing sheep-painting game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate buying cigarettes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered buying cigarettes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate buying from Mishmash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered buying from Mishmash,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate to start crane game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered starting crane game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate to quit slots,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered quitting slots,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Didn't hesitate when confirming 1st defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered when confirming 1st defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 2nd defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Reconsidered when confirming 2nd defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 3rd defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Reconsidered when confirming 3rd defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 4th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered when confirming 4th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 5th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Reconsidered when confirming 5th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 6th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Reconsidered when confirming 6th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 7th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered when confirming 7th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 8th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered when confirming 8th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Didn't hesitate when confirming 9th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reconsidered when confirming 9th defense upgrade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+Answered a dialogue choice in 1 second,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Answered a dialogue choice in 1 second (2nd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Answered a dialogue choice in 1 second (3rd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,0,0,0,0,0
+Answered a dialogue choice in 1 second (5th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-2,0,0,0,0,0,0,0
+Answered a dialogue choice in 1 second (7th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-2,0,0,0,0,0,0,0
+Answered a dialogue choice in 1 second (10th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,-8,0,0,0,0,0,0,0
+Answered a dialogue choice in 2 seconds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Answered a dialogue choice in 2 seconds (2nd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Answered a dialogue choice in 2 seconds (3rd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,0,0,0,0,0
+Answered a dialogue choice in 2 seconds (5th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,0,0,0
+Answered a dialogue choice in 2 seconds (7th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,0,0,0
+Answered a dialogue choice in 2 seconds (10th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-4,0,0,0,0,0,0,0
+Answered a dialogue choice after 12 seconds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Answered a dialogue choice after 12 seconds (2nd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,0,0,0
+Answered a dialogue choice after 12 seconds (3rd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,2,0,0,0,0,0,0,0
+Answered a dialogue choice after 12 seconds (5th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3,4,0,0,0,0,0,0,0
+Answered a dialogue choice after 12 seconds (7th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,4,0,0,0,0,0,0,0
+Answered a dialogue choice after 12 seconds (10th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-8,8,0,0,0,0,0,0,0
+Answered a dialogue choice after 7 seconds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Answered a dialogue choice after 7 seconds (2nd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Answered a dialogue choice after 7 seconds (3rd time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Answered a dialogue choice after 7 seconds (5th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,2,0,0,0,0,0,0,0
+Answered a dialogue choice after 7 seconds (7th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,2,0,0,0,0,0,0,0
+Answered a dialogue choice after 7 seconds (10th time),0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,6,0,0,0,0,0,0,0
+Answered a dialogue choice displayed in red in 1 second,0,0,0,0,0,0,-4,0,0,2,0,0,2,-2,4,-2,0,0,-4,4,0,0,0
+Answered a dialogue choice displayed in red in 2 seconds,0,0,0,0,0,0,-2,0,0,1,0,0,1,-1,2,-1,0,0,-2,2,0,0,0
+Answered a dialogue choice displayed in red after 15 seconds,0,0,0,0,0,0,4,0,0,-3,0,0,-3,3,-2,4,0,0,6,-6,0,0,0
+Answered a dialogue choice displayed in red after 10 seconds,0,0,0,0,0,0,2,0,0,-1,0,0,-1,1,-1,2,0,0,2,-3,0,0,0
+Stopped smoking a cigarette in 3 seconds,0,0,-2,2,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0
+Smoked a cigarette for 6 seconds,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smoked a cigarette for 10 seconds,0,0,2,-2,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,2,0,0
+Smoked 3 cigarettes,0,0,1,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+Smoked 5 cigarettes,0,0,2,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0
+Smoked 10 cigarettes,0,-2,4,2,0,0,0,0,0,0,0,-4,0,0,0,0,0,2,0,0,2,0,0
+Tried to smoke a cigarette by an AC unit,0,0,0,0,2,0,-4,0,0,0,2,2,4,0,0,0,0,0,0,0,0,0,0
+Got off a bench in 3 seconds,0,0,-2,2,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Got off a bench in 6 seconds,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Got off a bench after 10 seconds,0,-1,2,-2,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,0,0,0
+Sat on a bench 3 times,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sat on a bench 5 times,0,0,0,0,0,0,0,0,1,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0
+Sat on a bench 10 times,0,0,0,0,0,0,0,0,2,0,-1,-2,0,0,0,0,0,2,0,0,0,0,0
+Traded scrap for 1st reward (10 coins),0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,-2,-2
+Traded scrap for 2nd reward (10 coins),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-2,-2
+Traded scrap for 3rd reward (10 coins),0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,-2
+Traded scrap for 4th reward (20 coins),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,4
+Traded scrap for 5th reward (30 coins),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+Traded scrap for 6th reward (20 coins),0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0
+Touched streetlights 3 times,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+Touched streetlights 10 times,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Touched streetlights 20 times,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Touched streetlights 30 times,0,1,2,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Touched streetlights 40 times,0,2,4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Touched all streetlights,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Broke 2 pots,1,0,0,0,0,0,-1,0,-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Broke 5 pots,1,0,0,0,0,0,-1,0,-2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Broke 8 pots,1,0,0,0,0,0,-2,0,-2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Broke 12 pots,2,-1,2,0,2,0,-2,0,-2,0,1,0,0,0,0,0,0,0,-2,0,0,0,6
+Pulled at first tug when fishing,0,0,-4,0,4,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2
+Pulled at biggest tug when fishing,0,0,1,0,0,1,1,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0
+Gave up on fishing without waiting for a tug,0,0,0,2,0,-2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Caught something when fishing after waiting 1 minute,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Bought the sneakers,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,-2
+Bought the fishing rod,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,2
+Bought the present,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2
+"When first mining, quit without digging up any items",0,-2,0,0,2,0,0,0,0,2,-2,0,0,-2,0,0,0,0,0,0,0,0,-4
+"When first mining, quit after digging up 1 item",0,0,-2,0,0,0,0,0,0,2,0,0,0,-4,0,0,0,0,2,0,0,0,-2
+"When first mining, quit after digging up 2 item",0,0,0,0,0,0,0,0,0,1,0,0,0,-2,0,0,0,0,0,0,0,0,0
+"When first mining, quit after digging up 3 item",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+"When first mining, quit after digging up 4 item",0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2
+"When first mining, quit after digging up 5 item",0,0,4,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,4,0,4
+Dug 150 times,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dug 300 times,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dug 450 times,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"At cigarette shop, bought NATURAL INDIE SPIRIT",0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,4,-4,0,0,0,-2,0
+"At cigarette shop, bought GOLDEN SHEEP",0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,2,0
+"At cigarette shop, bought OCHA HEAVEN",0,0,0,1,0,0,0,2,0,0,2,0,0,0,0,0,-4,4,0,0,0,-2,0
+Punched the vending machine,2,0,0,0,0,0,-4,-1,-4,0,0,0,1,0,0,0,0,2,0,2,0,0,0
+Punched the vending machine 2 times,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Punched the vending machine 3 times,1,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Checked the grave first thing,0,1,0,0,1,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Picked up the item on ground first thing,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2
+Headed left first thing,0,0,0,0,-4,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+Pressed the OK button on game end pop-up,0,0,0,0,2,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Pressed the X button on game end pop-up,0,0,0,0,-2,0,-2,0,-1,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+Closed the game end pop-up in 3 seconds,0,-2,0,0,0,0,2,-1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Closed the game end pop-up after 7 seconds,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0
+Picked up 8 flowers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Picked up 9 flowers,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Offered a flower,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Checked an AC unit,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Checked a total of 3 AC units,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Checked a total of 5 AC units,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0
+Read a total of 5 things,0,1,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+Read a total of 8 things,0,3,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0
+Read a total of 14 things,0,6,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,0,0,0
+Never touched the photo of the two of you,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-4
+Touched the photo of the two of you 1 time,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Touched the photo of the two of you 2-9 times,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0
+Touched the photo of the two of you 10 times,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0
+Touched the photo of the two of you 11+ times,0,0,0,2,0,0,-8,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,2
+Moved to another area within 45 seconds from first bench,-2,0,0,0,2,0,0,0,0,0,0,4,0,-4,0,0,0,0,0,0,0,0,0
+Moved to another area more than 45 seconds from first bench,2,0,0,0,-2,0,0,0,2,0,0,-4,0,4,0,0,0,0,0,0,0,0,0
+Went to the forest particularly early on,2,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,2,0,0,0,0
+Went to the forest early on,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0
+Went to the forest after some time,0,2,0,2,-1,0,0,-2,-1,0,0,0,2,-4,0,0,0,0,-2,0,0,0,0
+Went to the town particularly early on,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,2,0,0,0,0
+Went to the town early on,0,0,0,0,0,0,0,0,0,0,0,0,-1,2,0,0,0,0,1,0,0,0,0
+Went to the town after some time,0,2,0,2,-3,0,0,-2,-1,0,0,0,2,-4,0,0,0,0,-2,0,0,0,0
+"For final action, checked the grave",0,0,0,0,0,2,0,2,0,-4,0,0,0,0,0,0,0,0,0,-4,-4,0,0
+"For final action, checked the photo",0,0,0,0,-2,0,4,2,2,-4,0,0,0,0,0,0,0,0,0,-4,-4,0,0
+"For final action, picked up a flower",0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"For final action, picked something up",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2
+"For final action, touched a streetlight",0,0,0,0,0,0,0,-3,1,0,0,0,0,0,0,0,0,0,4,-3,-6,0,-2
+"For final action, talked to someone",0,0,0,2,0,0,0,2,0,-6,0,0,0,0,0,0,0,0,-2,0,0,0,2
+"For final action, sat on a bench",0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,4,0,0,0,0
+"For final action, smoked a cigarette",0,0,0,0,-2,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For final action, read something",0,4,0,0,0,0,0,0,0,0,0,0,-3,0,0,0,3,0,0,0,0,0,0
+"For final action, checked an item or fixture",0,4,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-3,0,0,3,0,4,0
+"For final action, played a game",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Checked the fallen cockpit,1,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Checked the fallen cockpit (when empty),0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exited slots with no coins,0,0,4,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,6,0,2
+Exited slots with coins left,0,0,-2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4
+Exited slots within 50 spins,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,-4,4,0
+Played slots for 100 spins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Played slots for 200 spins,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Played slots for 300 spins,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+Played slots for 400 spins,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+Played slots for 500 spins,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+Played the crane game,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0
+Checked the crane game with under 10 coins,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2
+"Painting the sheep, used all 4 colors",0,0,-2,2,0,0,0,0,-2,0,0,0,0,0,0,0,-4,3,0,0,0,0,2
+"Painting the sheep, used 3 colors",0,0,-1,1,0,0,0,0,-1,0,0,0,0,0,0,0,-2,2,0,0,0,0,1
+"Painting the sheep, used 2 colors",0,0,1,-1,0,0,0,0,1,0,0,0,0,0,0,0,2,-2,0,0,0,0,0
+"Painting the sheep, used only 1 color",0,0,2,-2,0,0,0,0,2,0,0,0,0,0,0,0,4,-3,0,0,0,0,0
+"Painting the sheep, finished with starting colors",0,0,2,0,0,0,2,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Painting the sheep, didn't use starting colors",0,0,0,2,0,0,-2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Painting the sheep, finished in 30 seconds",0,0,0,0,0,-1,0,0,0,0,0,2,0,0,2,-2,0,0,0,1,0,0,0
+"Painting the sheep, finished after 120 seconds",0,0,0,2,0,1,0,0,0,0,0,0,0,2,-2,2,0,0,0,-1,0,0,0
+"Painting the sheep, painted 7 times or less",0,0,0,-2,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,0,0,0,0,0
+"Painting the sheep, painted 15 times or more",0,0,0,2,0,0,0,0,0,0,0,0,0,0,-4,4,0,0,0,0,0,0,0
+"At café, for 1st customer, put in Hot",0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"At café, for 1st customer, put in Cold",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0
+"At café, for 1st customer, put in sugar",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 1st customer, didn't put in sugar",0,0,0,0,0,-2,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0
+"At café, for 1st customer, didn't put in non-sugar",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"At café, for 1st customer, put in non-sugar",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"At café, for 1st customer, put in medicine",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+"At café, for 1st customer, didn't put in options",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,-2
+"At café, for 1st customer, put in 3+ options",0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+"At café, for 1st customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0
+"At café, for 1st customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"At café, for 2nd customer, put in Hot",0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+"At café, for 2nd customer, put in Cold",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,-6,0,4,0,0
+"At café, for 2nd customer, put in medicine",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+"At café, for 2nd customer, didn't put in options",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,4,0
+"At café, for 2nd customer, put in 1 option",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+"At café, for 2nd customer, put in 2 options",0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,2,0,0,0,0,0
+"At café, for 2nd customer, put in 3+ options",0,0,0,1,0,0,0,2,0,2,0,0,0,4,0,0,0,4,0,0,0,0,2
+"At café, for 2nd customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 2nd customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,0
+"At café, for 3rd customer, put in Hot",0,0,2,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 3rd customer, put in Cold",0,2,-4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0
+"At café, for 3rd customer, put in medicine",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+"At café, for 3rd customer, didn't put in options",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,-2,-2,4,0
+"At café, for 3rd customer, put in 1 option",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0
+"At café, for 3rd customer, put in 2 options",0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,2,0,2,2,0,0
+"At café, for 3rd customer, put in 3+ options",0,0,0,1,0,0,0,2,0,2,0,0,0,4,0,0,0,4,0,4,4,0,0
+"At café, for 3rd customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 3rd customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,0
+"At café, for 4th customer, put in Hot",0,0,2,-2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 4th customer, put in Cold",0,0,-2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 4th customer, put in medicine",0,0,0,0,-4,0,0,0,-2,-4,4,0,0,0,0,0,0,0,0,0,0,4,0
+"At café, for 4th customer, didn't put in medicine",0,0,0,0,2,0,0,0,2,4,-4,0,0,0,0,0,0,0,0,0,0,-4,0
+"At café, for 4th customer, put in chili or cinnamon",0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,2
+"At café, for 4th customer, didn't put in options",0,0,0,0,0,0,0,-4,0,2,0,0,0,-4,0,0,2,0,0,0,0,4,0
+"At café, for 4th customer, put in 1 option",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+"At café, for 4th customer, put in 2 options",0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,2,0,0,0,0,0
+"At café, for 4th customer, put in 3+ options",0,0,0,1,0,0,0,2,0,2,0,0,0,4,0,0,0,4,0,0,0,0,2
+"At café, for 4th customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 4th customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,0
+"At café, for 5th customer, put in Hot",0,0,1,-1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 5th customer, put in Cold",0,0,-1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 5th customer, put in milk",0,0,0,0,0,0,-4,3,0,0,0,0,0,0,0,0,2,-4,0,2,0,-6,0
+"At café, for 5th customer, didn't put in options",0,0,0,0,0,0,4,-4,0,0,0,4,0,0,0,0,1,-2,0,2,0,6,0
+"At café, for 5th customer, put in 1 option",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At café, for 5th customer, put in 2 options",2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0
+"At café, for 5th customer, put in 3+ options",4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,2,0,0,0,0,0
+"At café, for 5th customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 5th customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,0
+"At café, for 6th customer, put in Hot",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,-2,-2,2,0
+"At café, for 6th customer, put in Cold",0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,-2,2,2,-2,0
+"At café, for 6th customer, put in medicine",0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,2,0
+"At café, for 6th customer, didn't put in options",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,-4,0,0,0,2,0
+"At café, for 6th customer, put in 1 option",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-2,-4,0,0
+"At café, for 6th customer, put in 2 options",0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,2,0,0,2,0,0
+"At café, for 6th customer, put in 3+ options",0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,4,2,2,4,0,0
+"At café, for 6th customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 6th customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,0
+"At café, for 7th customer, put in Hot",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,-2,-2,2,0
+"At café, for 7th customer, put in Cold",0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,-2,2,2,-2,0
+"At café, for 7th customer, put in medicine",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+"At café, for 7th customer, didn't put in options",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,-4,6,4,0,0
+"At café, for 7th customer, put in 1 option",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2,0,-2,0,2,0,0
+"At café, for 7th customer, put in 2 options",0,0,0,0,0,0,0,2,0,1,0,0,0,2,0,0,0,2,2,0,-2,0,0
+"At café, for 7th customer, put in 3+ options",0,0,0,0,0,0,0,2,0,2,2,0,0,4,0,0,0,0,4,0,-4,0,2
+"At café, for 7th customer, spent 15 seconds or less",0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 7th customer, spent 60 seconds or more",0,0,0,0,0,1,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,0
+"At café, for 1st customer, served without hesitation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 2nd customer, served without hesitation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 3rd customer, served without hesitation",0,0,0,0,0,0,0,-2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 4th customer, served without hesitation",0,0,0,0,0,0,0,-2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 5th customer, served without hesitation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 6th customer, served without hesitation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 7th customer, served without hesitation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"At café, for 1st customer, server after reconsidering",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 2nd customer, served after reconsidering",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 3rd customer, served after reconsidering",0,0,0,0,0,0,0,-1,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 4th customer, served after reconsidering",0,0,0,0,0,0,0,-1,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 5th customer, served after reconsidering",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 6th customer, served after reconsidering",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 7th customer, served after reconsidering",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
+"At café, for 1st customer, server after reconsidering 4 times",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, for 2nd customer, served after reconsidering 4 times",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, for 3rd customer, served after reconsidering 4 times",0,0,0,0,0,0,0,4,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, for 4th customer, served after reconsidering 4 times",0,0,0,0,0,0,0,4,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, for 5th customer, served after reconsidering 4 times",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, for 6th customer, served after reconsidering 4 times",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, for 7th customer, served after reconsidering 4 times",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,0,0,0
+"At café, opened minigame explanation",0,0,0,0,0,0,0,0,0,0,-1,0,-1,1,0,0,0,0,0,0,0,0,0
+"At café, didn't open minigame explanation",0,0,0,0,0,0,0,0,0,0,1,0,2,-1,0,0,0,0,-1,0,0,0,0
+"Feeding the sheep, gave the 1st sheep grass",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"Feeding the sheep, gave the 1st sheep carrot",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Feeding the sheep, gave the 1st sheep meat",0,0,0,0,0,0,0,-2,0,1,0,0,0,0,0,0,0,2,0,0,2,0,0
+"Feeding the sheep, ran out of time on 1st sheep",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"Feeding the sheep, gave the 2nd sheep grass",0,0,0,0,0,0,0,-2,0,1,0,0,0,0,0,0,0,2,0,0,2,0,0
+"Feeding the sheep, gave the 2nd sheep carrot",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+"Feeding the sheep, gave the 2nd sheep meat",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Feeding the sheep, ran out of time on 2nd sheep",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"Feeding the sheep, gave the 3rd sheep grass",0,0,0,0,0,0,0,-2,0,0,2,0,0,0,0,0,0,0,0,2,2,4,0
+"Feeding the sheep, gave the 3rd sheep carrot",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,-2,0
+"Feeding the sheep, gave the 3rd sheep meat",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0
+"Feeding the sheep, ran out of time on 3rd sheep",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"Feeding the sheep, gave the 4th sheep grass",0,0,0,0,0,0,0,-2,0,1,0,0,0,0,0,0,0,2,0,0,2,0,0
+"Feeding the sheep, gave the 4th sheep carrot",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Feeding the sheep, gave the 4th sheep meat",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"Feeding the sheep, ran out of time on 4th sheep",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"Feeding the sheep, gave the same meal to all 4",0,0,4,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Feeding the sheep, gave for same reason to all 4",0,0,4,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Feeding the sheep, opened minigame explanation",0,0,0,0,0,0,0,0,0,0,-1,0,-1,1,0,0,0,0,0,0,0,0,0
+"Feeding the sheep, didn't open minigame explanation",0,0,0,0,0,0,0,0,0,0,1,0,2,-1,0,0,0,0,-1,0,0,0,0
+Pet the sheep 1 time or less,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,-4,0,0
+Pet sheep 2-4 times,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-2,0,0
+Pet sheep 5 times,0,0,0,0,2,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+Pet sheep 6 times,0,0,0,0,1,0,0,1,1,0,0,0,2,0,0,0,0,0,0,2,2,0,1
+Pet sheep 7+ times,2,1,0,0,0,-2,0,-4,0,0,0,0,0,0,0,0,0,0,2,3,6,0,2
+Pet the sheep's head first,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pet the sheep's torso first,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Pet the sheep's butt first,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2
+Pet only 1 spot on sheep,0,0,2,-2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+Pet 3 spots on sheep,2,1,-2,2,0,0,0,2,-2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"When caring for sheep, opened minigame explanation",0,0,0,0,0,0,1,0,1,0,0,0,-1,1,0,0,0,0,0,0,0,0,0
+"When caring for sheep, didn't open minigame explanation",0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,0,0,0,0,0
+Counted only normal sheep,0,0,0,-4,2,0,4,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
+"When counting sheep, counted seed-like things",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+"When counting sheep, counted returning sheep",0,0,0,0,0,2,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"When counting sheep, counted circles",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1
+"When counting sheep, counted everything",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+"When counting sheep, opened minigame explanation",0,0,0,0,0,0,1,0,1,0,0,0,-1,1,0,0,0,0,0,0,0,0,0
+"When counting sheep, didn't open minigame explanation",0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,0,0,0,0,0
+"When watched by sheep, touched 1 time",0,0,0,0,0,2,4,0,2,0,0,0,0,0,0,2,0,0,0,4,0,0,0
+"When watched by sheep, touched 2-4 times",0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"When watched by sheep, touched 5-6 times",0,0,0,0,0,-1,-1,0,0,0,2,2,2,0,0,-2,0,0,0,0,0,0,2
+"When watched by sheep, touched 7 times",0,0,0,0,0,-1,-1,0,0,0,4,4,4,0,0,-4,0,0,0,0,0,0,4
+"When watched by sheep, opened minigame explanation",0,0,0,0,0,0,0,0,1,0,0,0,-1,1,0,0,0,0,0,0,0,0,0
+"When watched by sheep, didn't open minigame explanation",0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,0,0,0,0,0
+"In action game stage 1, got 3 coins",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"In action game stage 1, got 2 coins or fewer",0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-2
+"In action game stage 1, jumped 3+ times",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-2,0,0,0,0
+"In action game stage 1, jumped only 1 time",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,2,0
+"In action game stage 2, got 1 coin",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,2
+"In action game stage 2, didn't get any coins",0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,-2
+"In action game stage 2, jumped 3+ times",0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-2,0,0,0,0
+"In action game stage 2, jumped only 1 time",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,2,0
+"In action game stage 3, got 1 coin",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"In action game stage 3, jumped 7+ times",1,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0
+"In action game stage 3, didn't die once",0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,6,-4,0,0,-4
+"In action game stage 3, died 1-2 times",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,-2,0,0,-2
+"In action game stage 3, died 3+ times",1,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,2,0,0,2
+"In action game stage 3, died 6+ times",2,0,0,0,0,0,0,0,0,0,0,-4,2,0,0,0,0,0,0,4,0,0,4
+"In action game stage 4, went to empty-looking spot",4,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,-2,2,0,0,1
+"In action game stage 4, ignored empty-looking spot",-4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,-2,0,0,-1
+"In action game stage 4, jumped 6+ times",1,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0
+"In action game stage 5, got 1 coin",2,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,3
+"In action game stage 5, didn't get any coins",-2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-3
+"In action game stage 6, didn't die once",0,0,0,0,0,0,4,0,0,0,0,0,0,0,-4,4,0,0,6,-6,0,0,0
+"In action game stage 6, died 1-2 times",0,0,0,0,0,0,2,0,0,0,0,0,0,0,-2,2,0,0,2,-2,0,0,0
+"In action game stage 6, died 3+ times",0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,-2,0,0,-4,4,0,0,0
+"In action game stage 6, died 6+ times",0,0,0,0,0,0,0,0,0,2,0,2,0,0,4,-4,0,0,-6,6,0,0,0
+"In action game stage 7, picked the top path",0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0
+"In action game stage 7, picked the bottom path",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,0
+"In action game stage 7, picked both top and bottom path",0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,2,0,4
+"In action game stage 7, didn't die once",0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,-2,0,0,-2
+"In action game stage 7, died 1-2 times",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,-1
+"In action game stage 7, died 3+ times",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,1,0,0,1
+"In action game stage 7, died 6+ times",0,0,0,0,0,0,0,0,0,0,0,-2,1,0,0,0,0,0,0,2,0,0,2
+"In action game stage 8, got 3+ coins",4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2
+"In action game stage 8, got 1 coin",0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,1
+"In action game stage 8, didn't get any coins",0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,-2
+"In action game stage 9, won after crushing creature",0,0,0,0,0,0,2,-2,-2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"In action game stage 9, won without crushing creature",0,0,0,0,0,0,0,2,4,0,-4,0,0,0,0,0,0,0,0,0,0,0,0
+"In action game stage 10, got 1 coin",0,0,0,0,2,0,0,-4,-4,0,4,0,0,0,0,0,0,0,0,0,0,4,4
+"In action game stage 10, didn't get any coins",0,0,0,0,0,0,0,4,6,0,-4,4,0,0,0,0,0,0,0,0,0,-4,4
+"In battle, used Heal",0,0,0,0,0,0,0,0,2,0,0,-2,0,4,0,0,0,0,4,-6,-4,0,0
+"In battle, didn't use Heal",0,-2,0,0,0,0,0,0,0,0,0,2,0,-4,0,0,0,0,-4,6,4,0,0
+"In battle, used Guard",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-4,0,0,0
+"In battle, didn't use Guard",0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0
+"In battle, didn't use Heal or Guard",0,0,4,-4,0,0,0,0,0,0,0,0,0,0,0,0,4,-4,0,0,0,0,0
+"In battle, used both Heal and Guard",0,0,-4,4,0,0,0,0,1,0,0,0,0,0,0,0,-4,4,0,0,0,0,0
+Cleared shooting game Stage 1 in 20 seconds,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,-4,4,0,0,0
+Cleared shooting game Stage 1 after 60 seconds,0,0,0,0,0,0,0,0,0,0,0,-2,0,4,0,0,0,0,4,-4,0,0,0
+Cleared shooting game Stage 2 in 30 seconds,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,-4,4,0,0,0
+Cleared shooting game Stage 2 after 90 seconds,0,0,0,0,0,0,0,0,0,0,0,-2,0,4,0,0,0,0,4,-4,0,0,0
+Cut the big bomb wire first,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-6,2,6,0,0
+Cut the regular bomb wire first,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Cut the small bomb wire first,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-4,-4,0,0
+Cut 3 bomb wires,0,0,0,0,0,4,0,0,0,0,3,0,4,0,0,0,0,0,-4,4,0,0,0
+Cut 2 bomb wires,0,0,0,0,0,2,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0
+Cut 1 bomb wire,0,0,0,0,0,1,0,0,0,0,-2,0,0,0,0,0,0,0,6,-4,0,0,0
+Didn't cut any bomb wires,0,0,0,0,0,-2,0,0,0,0,-4,0,0,0,0,6,0,0,0,0,0,-2,0
+"In High-Low, made high-odds choice",0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,-2,0,0
+"In High-Low, made low-odds choice",0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,-2,0,2,0,0
+"In High-Low, seeing a 50, made same choice as last",0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,0,2,0,0
+"In High-Low, seeing a 50, made different choice from last",0,0,0,2,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,2,0,-2,0,0
+"In High-Low, with difference 5 or less, made low-odds choice",0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,0,0,0,-4,4,4,0,0
+"In High-Low, chose in 4 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,0,0,2,0,0
+"In High-Low,  chose after 10 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,-2,0,0
+"In High-Low, chose to quit midway",0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,-4,0,0
+"In High-Low, chose to quit seeing a 50",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0
+"In High-Low, opened minigame explanation",0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0
+"In High-Low, didn't open minigame explanation",0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,-1,0,0,0,0
+Viewed cave robot painting for 20 seconds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Viewed cave robot painting for 10 seconds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Viewed cave robot painting for 3 seconds or less,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Never touched cave robot painting,0,0,0,0,0,0,0,0,0,2,0,4,0,-6,0,0,0,0,2,0,0,0,-4
+Touched cave robot painting,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Touched cave robot painting 4+ times,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+Touched cave robot painting 10+ times,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4
+Touched cave robot painting's eye 2+ times,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Touched cave robot painting's mouth 2+ times,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For 1st defense upgrade, chose Attack Up",0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,4,-2,2,0,0,0,0
+"For 1st defense upgrade, chose Reload Speed Up",0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For 1st defense upgrade, chose Expand Magazine",0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,2,0,0,0,0,2
+"For 2nd defense upgrade, chose Attack Up",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,-1,0,0,0,0,0
+"For 2nd defense upgrade, chose Reload Speed Up",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For 2nd defense upgrade, chose Expand Magazine",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,2
+"For 3rd defense upgrade, chose Attack Up",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,-1,0,0,0,0,0
+"For 3rd defense upgrade, chose Reload Speed Up",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For 3rd defense upgrade, chose Expand Magazine",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,2
+"For 4th defense upgrade, chose Attack Up",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,-1,0,0,0,0,0
+"For 4th defense upgrade, chose Reload Speed Up",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For 4th defense upgrade, chose Expand Magazine",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,2
+"For 5th defense upgrade, chose Normal Turret",0,0,4,-2,0,0,0,0,0,-2,2,0,0,0,0,0,4,-4,2,0,0,0,0
+"For 5th defense upgrade, chose Spread Turret",0,0,-2,1,0,0,0,0,0,-2,0,0,0,0,0,0,-4,4,0,0,4,0,0
+"For 5th defense upgrade, chose Speed-Down Field",0,0,-2,2,0,0,0,0,0,4,0,0,0,2,0,0,-2,2,0,0,0,0,0
+"For 6th defense upgrade, chose Normal Turret",0,0,2,-1,0,0,0,0,0,-2,1,0,0,0,0,0,2,-2,0,0,0,0,0
+"For 6th defense upgrade, chose Spread Turret",0,0,-1,1,0,0,0,0,0,-1,0,0,0,0,0,0,-2,2,0,0,2,0,0
+"For 6th defense upgrade, chose Speed-Down Field",0,0,-1,1,0,0,0,0,0,2,0,0,0,1,0,0,-1,1,0,0,0,0,0
+"For 7th defense upgrade, chose Normal Turret",0,0,2,-1,0,0,0,0,0,-2,1,0,0,0,0,0,2,-2,0,0,0,0,0
+"For 7th defense upgrade, chose Spread Turret",0,0,-1,1,0,0,0,0,0,-1,0,0,0,0,0,0,-2,2,0,0,2,0,0
+"For 7th defense upgrade, chose Speed-Down Field",0,0,-1,1,0,0,0,0,0,2,0,0,0,1,0,0,-1,1,0,0,0,0,0
+"For 8th defense upgrade, chose Attack Up+",0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,4,-4,2,0,0,0,0
+"For 8th defense upgrade, chose Piercing Bullets",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-4,0,0,0,0
+"For 8th defense upgrade, chose Sabotage Bullets",0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,-4,4,0,0,0,0,0
+"For 9th defense upgrade, chose Attack Up+",0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,2,-2,1,0,0,0,0
+"For 9th defense upgrade, chose Piercing Bullets",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-3,0,3,0,0
+"For 9th defense upgrade, chose Sabotage Bullets",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-2,2,0,0,0,0,0
+"For 3rd, defense upgrade, made same choice as 1st and 2nd",0,0,4,-4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"For 1st/2nd/3rd defense upgrades, made different choices for each",0,0,-4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"For 7th defense upgrade, made same choice as 5th and 6th",0,0,4,-4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+"For 5th/6th/7th upgrade, made different choices for each",0,0,-4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"For 1st defense upgrade, chose in 3 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 1st defense upgrade, chose after 7 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 2nd defense upgrade, chose in 3 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 2nd defense upgrade, chose after 7 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 3rd defense upgrade, chose in 3 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 3rd defense upgrade, chose after 7 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 4th defense upgrade, chose in 3 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 4th defense upgrade, chose after 7 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 5th defense upgrade, chose in 2 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 5th defense upgrade, chose after 5 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 6th defense upgrade, chose in 2 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 6th defense upgrade, chose after 5 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 7th defense upgrade, chose in 3 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 7th defense upgrade, chose after 7 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 8th defense upgrade, chose in 2 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 8th defense upgrade, chose after 5 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"For 9th defense upgrade, chose in 2 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"For 9th defense upgrade, chose after 5 seconds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Challenged Mirai with 300-349 coins,0,0,0,0,0,2,2,0,0,0,0,4,0,-1,0,0,0,0,0,0,2,0,1
+Challenged Mirai with 350-399 coins,0,0,0,0,0,0,0,0,0,0,0,2,0,-4,0,0,0,0,0,0,0,0,0
+Challenged Mirai with 400-499 coins,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Challenged Mirai with 500+ coins,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+Lit 1 lantern,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Lit 3 lanterns,1,2,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,2
+"Lit 1 lantern, but didn't then light them all",-4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-4
+"When reporting touching sheep, didn't actually touch any",0,0,0,0,-1,-4,-1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0
+"When reporting touching sheep, touched 1 or 2",0,0,0,0,-2,-2,-1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+"When reporting touching sheep, touched 3",0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"When really reporting touching sheep, didn't actually touch any",0,0,0,0,-1,-4,-4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0
+"When really reporting touching sheep, touched 1 or 2",0,0,0,0,-2,-2,-1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0
+"When really reporting touching sheep, touched 3",0,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Didn't change name at name re-entry,0,0,4,0,0,0,2,0,0,-2,0,2,0,0,0,0,2,0,0,0,0,0,0
+Entered your name at name re-entry,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1
+Entered no name at name re-entry,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0
+Entered a too-long name at name re-entry,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0
+Took elevator to basement first,2,0,0,0,0,0,4,0,0,0,0,0,0,2,0,0,2,0,-2,0,0,0,0
+Took elevator to 2F first,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-1,0,0,0,0,0
+Took elevator to 3F first,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,4,0,0,0,0,0
+Took elevator to roof first,2,0,0,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Jumped off the roof,1,0,0,0,0,0,0,0,0,2,0,-2,2,0,0,0,0,0,0,4,0,0,0
+Jumped off the roof 2 times,0,1,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Jumped off the roof 4 times,0,4,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1
+"At shrine, performed bows and claps",0,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"At shrine, didn't ring bell once",0,0,0,0,0,0,0,0,2,0,0,2,-2,0,0,0,0,0,0,0,0,0,0
+"At shrine, rung bell only once",0,0,0,0,0,0,0,0,3,0,0,0,-1,0,0,0,0,0,1,0,0,1,0
+"At shrine, rung bell 2-5 times",0,0,0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,1,0,0,0
+"At shrine, rung bell 6+ times",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2
+Looked through telescope for 1 minute or less,0,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,2,0,0,0,0
+Looked through telescope for 1-2 minutes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Looked through telescope for 2-3 minutes,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Looked through telescope for 3+ minutes,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2,0,2
+Chose to buy something from vending machine,0,0,0,0,2,2,0,0,0,0,0,-1,0,0,0,0,2,0,0,0,0,0,2
+Chose to punch vending machine,0,0,0,0,0,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Chose to talk to vending machine,0,0,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,-2
+Bought water from vending machine,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Bought best red-bean soup from vending machine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Decided not to buy from vending machine,0,0,0,0,2,-2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-2
+"At shrine, chose to pray",0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"At shrine, chose not to pray",0,0,2,0,-2,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,-2,0,0
+"At shrine, thought ""What use is praying?""",0,0,0,0,-2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-4,0,0
+Didn't make an offering to shrine,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0
+Offered 1 coin to shrine,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Offered 5 coins to shrine,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,0
+"Asked Inori ""Who are you?""",0,0,0,0,3,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Asked Inori ""What are these around here?""",0,2,0,0,0,0,1,-1,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0
+"Asked Inori ""What should I do?""",0,0,0,0,0,0,1,-1,0,-2,0,6,0,1,0,0,0,0,0,0,0,0,0
+Accepted going to touch sheep,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Refused going to touch sheep,0,0,0,4,-2,-4,0,-4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Answered that you touched sheep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Answered that you didn't touch sheep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Answered that you really touched sheep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Answered that you didn't really touch sheep,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0
+Asked Dull what you could help with,0,2,0,0,0,2,0,0,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,0
+Refused to help out Dull,0,0,0,0,0,-2,0,-2,2,0,0,2,0,-2,0,0,0,0,0,0,0,0,0
+Asked Dull for a drink,0,-2,0,2,0,0,0,0,0,0,0,-2,1,-2,0,0,0,0,0,0,0,0,4
+Asked for coffee at café,0,0,2,0,0,2,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asked for water at café,1,1,0,4,0,0,0,0,0,0,0,0,2,0,0,0,4,-2,0,0,0,0,0
+Asked for frappuccino at café,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,2,0,0,0,0,0
+Told Dull you felt like helping,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0
+Told Dull you still don't feel like helping,0,0,0,0,0,0,0,0,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,0
+Asked Dull for a drink when checking if you'd help,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,1
+Played dumb with Mirai,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Asked Mirai ""You mean you like me?""",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Declared to Mirai ""I'll kill you""",0,0,0,2,0,0,0,-6,-8,0,0,0,0,0,0,0,0,2,-4,2,0,0,0
+Asked Mirai how to gather coins,0,2,0,0,0,2,2,0,0,4,0,0,0,4,0,0,0,2,0,0,-2,0,-2
+Appealed to Mirai to just play anyway,0,0,0,0,0,0,-2,0,0,0,2,2,2,0,0,0,0,0,0,0,-2,0,0
+Requested 300 coins from Mirai,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0,0,4,2,4
+Told Mirai you gathered the coins,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0
+Told Mirai you didn't gather the coins,0,0,0,0,0,0,0,0,0,0,0,-2,0,2,0,2,0,0,0,0,0,0,0
+Refused the memory trade,0,0,0,0,0,0,0,-2,0,0,-2,0,0,2,0,0,0,0,2,0,0,0,-2
+Accepted the memory trade,0,0,0,0,0,0,0,4,0,0,2,0,0,-2,0,0,0,0,-2,2,0,0,0
+Answered you'd accept a memory trade for coins,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+Accepted the memory trade for coins,0,0,0,0,0,0,0,0,0,0,2,0,0,-2,0,0,0,0,-2,2,0,4,0
+Refused the memory trade for coins,0,0,0,0,2,0,0,0,0,0,-2,0,0,2,0,2,0,0,2,0,0,0,-2
+Gave Toy Type M1 the stuffed animal,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,-2,0,0,0,-2
+Didn't give Toy Type M1 the stuffed animal,0,0,0,0,0,2,0,-2,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0
+Offered Toy Type M1 a trade for stuffed animal,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2
+Decided to give Toy Type M1 the stuffed animal after all,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Declined Toy Type M1 for having nothing to trade,0,0,0,0,-4,2,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0
+Thought cave robot painting was creepy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Thought cave robot painting was cute,0,0,0,2,0,0,-2,2,0,0,0,0,0,0,0,0,0,2,-2,0,2,0,0
+Thought cave robot painting was curious,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Put hand in the trash can to look for something,2,2,0,0,0,0,0,-2,-2,0,2,0,0,0,0,0,0,0,0,2,0,0,4
+Closed the lid on the trash can,0,-4,0,0,2,4,0,0,4,0,0,0,0,0,0,0,0,0,0,-2,0,0,0
+Sniffed the trash can,0,2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,2,2,-2,0,0
+Questioned the receptionist,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,2,0,0,0,0
+Gave the receptionist a sparkly reply,0,0,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asked the receptionist for coins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+Made a trade at the recycle shop,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0
+Refused to trade at the recycle shop,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
+Refused Toy Type M2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0
+Gave Toy Type M2 coins,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Instead asked for coins from Toy Type M2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+Gave Toy Type M2 the present,0,2,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Didn't give Toy Type M2 the present,0,0,2,0,0,0,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Handed over the gold scrap to Toy Type M2,0,0,0,0,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,-2,0
+Doubted Toy Type M2,0,0,0,0,-4,0,0,0,0,0,0,0,0,4,0,0,0,0,6,0,-4,0,0
+Didn't hand over the gold scrap to Toy Type M2,0,0,0,0,1,0,0,-4,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0
+Checked for a reward from Toy Type M2,0,0,0,0,2,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,2,1
+Left Toy Type M2 without a word,0,0,0,0,0,0,0,0,2,4,0,2,1,0,0,0,4,0,0,0,0,0,0
+Looked at nearby sea with telescope,2,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0
+Looked at distant sky with telescope,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0
+Decided not to look in telescope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+Received consultation from Kokoro,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Told Kokoro ""You should draw it yourself""",0,0,0,2,0,0,0,-1,2,4,0,2,0,0,0,0,0,2,0,0,0,1,0
+"Told Kokoro ""I'll paint it for coins""",0,0,0,0,0,2,0,0,-1,0,0,0,0,0,0,0,0,0,0,1,1,4,2
+Played the game at the café,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Checked the game at the café,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Destroyed the game at the café,1,0,0,0,0,0,-2,0,-2,0,2,0,0,0,0,0,0,2,0,2,0,0,0
+Played the game in the laboratory,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Checked the game in the laboratory,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Destroyed the game in the laboratory,1,0,0,0,0,0,-2,0,-2,0,2,0,0,0,0,0,0,2,0,2,2,0,0
+Chose to have fortune told,0,0,0,2,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Refused getting a fortune,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-2,2,0,0,0,0,0,0,-6
+Destroyed Diviner Type,0,0,0,0,0,0,4,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+Asked for fortune of what you should do,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asked for fortune of what not to do,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,6,-2,-4,0,0
+Checked personality on laboratory PC,0,2,0,0,4,0,0,0,0,-2,-2,0,0,2,0,0,0,0,0,0,-4,0,2
+Didn't check personality on laboratory PC,0,0,0,0,-2,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,0,0,-4
+Didn't see a purpose to laboratory PC,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,2,0,2,2,0,0
+Gave the battery to Large One,0,0,0,0,0,0,2,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+Gave the battery to Little Ones,0,0,0,0,0,0,-2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Destroyed the battery,-2,0,0,0,0,0,0,-2,4,0,2,0,0,0,0,0,0,0,0,2,0,0,0
+Chose 3 pieces of info from informant,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Chose 2 pieces of info from informant,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Chose 1 piece of info from informant,-2,-2,0,0,0,0,0,0,0,0,0,2,0,-4,0,0,0,0,1,0,0,0,0
+Set up ladder for shortcut,-4,0,2,-2,0,0,0,-1,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0
+Set up ladder to inaccessible place,4,0,-2,2,0,0,0,-1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2
+Didn't set up ladder,0,0,2,-2,0,0,0,2,0,4,0,0,0,-2,0,0,0,0,0,0,0,0,-4
+Sold key to Key-Keeper,-2,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2
+Didn't sell key to Key-Keeper,4,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,-2,2
+Traded the gold scrap,-2,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+Didn't trade the gold scrap,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,-2
+Made Cleaner Type stop,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0
+Dismantled collapsed man just to be sure,0,0,0,0,0,0,4,-4,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0
+Did nothing to collapsed man,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,4,2,0,0,0,0,0
+Thanked the traffic light,0,0,0,0,1,4,1,2,2,0,0,0,0,0,0,0,0,0,2,-1,0,-1,-1
+Destroyed the traffic light,0,0,0,2,0,0,-4,-2,-4,0,0,0,0,0,0,0,0,0,1,2,0,2,2
+Talked to the traffic light,0,2,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+Talked to the cat,2,2,0,0,0,0,-2,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-1
+Moved the cat aside,0,-1,0,0,0,0,2,-2,-2,0,2,0,0,2,0,0,0,0,0,0,0,4,2
+Did nothing to the cat,0,-2,2,-2,0,0,0,0,4,0,0,0,-2,0,0,0,0,0,0,0,0,0,-4
+Talked to the cat normally,-2,0,2,-4,0,0,0,0,0,1,0,0,0,0,0,0,4,-2,0,0,-2,0,0
+Talked to the cat cattishly,0,0,-2,0,0,0,2,2,0,0,0,0,0,0,0,0,-2,4,0,0,4,0,0
+Replied you'd care for the sheep,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Refused to care for the sheep,0,0,0,0,0,-2,0,0,2,0,0,2,0,0,0,0,4,0,0,0,0,0,0
+Killed Crow Drone,0,0,0,0,0,4,2,-4,-6,0,0,0,0,0,0,0,2,-2,2,4,0,0,0
+Let Crow Drone go,0,0,0,0,0,-2,-2,0,2,0,0,2,0,0,0,0,0,-2,0,-4,0,0,0
+Pet Crow Drone,2,2,0,0,0,-4,-4,0,2,0,0,0,0,0,0,0,-2,2,-2,2,0,0,0
+Further investigated the area in the manhole,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cleaned the area in the manhole,-1,-1,0,2,0,2,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Recalled the promise with the Doctor just to be sure,0,2,0,0,0,0,0,2,0,0,0,-2,0,2,0,0,0,0,0,0,0,0,1
+Couldn't imagine forgetting promise with the Doctor,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Didn't recall promise with the Doctor,0,0,0,0,0,0,0,-2,0,4,0,2,0,0,0,0,0,0,0,0,0,0,-2
+Told the wounded man the Doctor was dead,0,0,0,0,0,-2,4,-1,-1,2,0,0,0,0,0,0,0,0,0,2,0,0,0
+Didn't tell the wounded man the Doctor was dead,0,0,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Checked the corpse before disposal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2
+Buried the corpse,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0,-2,-4
+Left the corpse alone,0,0,0,-2,0,0,0,0,4,4,0,0,0,0,0,0,0,0,4,-4,0,0,-4
+Took the cat in the manhole to the café,0,0,0,0,0,0,0,2,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Took the cat in the manhole to the forest,0,0,0,0,0,0,0,-2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Took the cat in the manhole to the shrine,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,4,0,4,0,0
+Opened the cardboard box,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,0,2,2
+Got inside the cardboard box,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-2,2,0,2,-2,0,-2
+Read the writing on the cardboard box,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,-2,-4
+Told Kokoro you went to the grave,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0
+Told Kokoro you didn't go to the grave,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Told Kokoro the Doctor is dead,0,0,0,-2,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0
+Told Kokoro you're not sure if the Doctor is dead,0,0,0,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,2,0,0,0,0
+Told Kokoro the Doctor is alive,0,0,0,2,0,0,-2,0,-1,-2,0,0,0,0,0,0,0,0,0,0,2,0,0
+Thought you had to keep your promise to the Doctor,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felt you want to fulfill your promise to the Doctor,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chose to do what you can for the Doctor and yourself,0,0,0,0,0,-2,0,-2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Chose to erase your memories,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chose to stop the plan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Looking in the mirror, thought ""Who am I?""",0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Looking in the mirror, thought about your promise",0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"Looking in the mirror, thought about your sin",0,0,0,0,0,2,0,0,-2,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+Thought yourself as the Doctor's friend,-2,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0
+Thought yourself as a creation,-2,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
+Thought of your relationship as unclear,2,2,0,4,0,-4,-4,0,0,0,0,0,0,0,0,0,-8,4,-8,4,4,0,0
+Felt the promise was to be together,0,0,4,0,0,0,0,-2,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felt the promise was to be happy,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felt no one should interfere with the promise,0,0,0,0,0,2,0,-2,0,2,4,0,0,2,0,0,0,0,0,4,-4,0,0
+Felt your sin was letting the Doctor die,0,0,0,0,0,2,-2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felt your sin was being hated by many,0,0,0,0,0,2,-2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Felt your sin was pretending to be human,0,0,2,-2,0,-2,4,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"When Manager Type brought up the Doctor, agreed with him",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"When Manager Type brought up the Doctor, asked ""How do you mean?""",0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+Asked what Kibou wanted with you,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Asked if Kibou was all right,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Told Kibou you were surprised,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accepted coins from Kibou,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,2,0,2,0,0,4,0
+Increased movement speed by Kibou,0,0,0,0,0,0,0,-1,0,2,0,4,0,0,0,0,0,1,0,0,0,0,0
+Accepted affection from Kibou,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0
+Told Kibou you needed help,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Told Kibou you didn't need help,0,0,0,0,0,2,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bought ""That Day"" at the ramen shop",-1,-1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bought ""The New World"" at the ramen shop",2,2,0,2,-2,0,0,0,0,0,0,0,0,0,0,0,0,2,-2,0,0,0,0
+"Bought ""Glimmer"" at the ramen shop",-2,-2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,-2,0,0
+Didn't hesitate when buying ramen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Took a thought while buying ramen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0
