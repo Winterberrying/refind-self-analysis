@@ -11,7 +11,6 @@
   justify-content: center; /* Center the h1 text */
   align-items: center;     /* Vertically align items in the header */
   padding: 20px;
-  background-color: #f4f4f4;
   position: relative; /* To make sure the hamburger is positioned properly */
   width: 100%;
   z-index: 100;
@@ -62,6 +61,133 @@
 /* Show nav links when the menu is active */
 #nav-links.active {
   display: block;
+  background-color: rgb(182, 162, 150);
+}
+
+/* Main Content */
+main {
+  padding-top: 80px; /* Add padding to prevent content overlap */
+  text-align: center;
+  justify-items: center;
+}
+
+ /* Container for the custom dropdown */
+ .custom-dropdown {
+  position: relative;
+  width: 300px;
+  font-size: 16px;
+}
+
+/* Styled select box */
+.custom-dropdown-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #f9f9f9;
+  color: #333;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.3s ease;
+}
+
+.custom-dropdown-button:hover {
+  border-color: #888;
+}
+
+/* Options container (hidden by default) */
+.custom-dropdown-options {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+  display: none;
+}
+
+/* Each option */
+.custom-dropdown-options div {
+  padding: 10px;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for options */
+.custom-dropdown-options div:hover {
+  background-color: rgb(182, 162, 150);
+  color: #fff;
+}
+
+/* Show options when the dropdown is active */
+.custom-dropdown.active .custom-dropdown-options {
+  display: block;
+}
+
+/* Table Container Styling */
+.table-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+/* Column Styling */
+.column {
+  flex: 1;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.column h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 18px;
+  color: #007BFF;
+}
+
+/* Card Styling */
+.card {
+  background-color: #f2f2f2;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+
+.card .action {
+  font-weight: bold;
+  color: #333;
+}
+
+.card .value {
+  font-size: 12px;
+  color: #555;
+}
+
+/* Positive and Negative Card Colors */
+.card.positive {
+  border-left: 4px solid #28a745; /* Green */
+}
+
+.card.negative {
+  border-left: 4px solid #dc3545; /* Red */
 }
 
 /* Mobile Layout Adjustments */

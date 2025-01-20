@@ -6,7 +6,7 @@
   <meta name="description" content="Refind Self Game Analysis: An in-depth exploration of game mechanics and strategies.">
   <meta name="keywords" content="game analysis, self improvement, game mechanics, strategy">
   <meta name="author" content="Your Name">
-  <title>Game Analysis</title>
+  <title>Game Analysis - Personality Types</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -16,15 +16,53 @@
         <img src="assets/burger-menu-svgrepo-com.svg" alt="Hamburger Menu" width="30" height="30">
       </button>
       <ul id="nav-links" aria-hidden="true">
-        <li><a href="#type">Personality Types</a></li>
-        <li><a href="#calculate">Calculate Score</a></li>
+        <li><a href="index.html">Personality Types</a></li>
+        <li><a href="calculate-score.html">Calculate Score</a></li>
       </ul>
     </nav>
     <h1>Refind Self Game Analysis</h1>
   </header>
 
   <main>
-    <!-- Main content goes here -->
+    <div class="custom-dropdown" id="custom-dropdown">
+      <div class="custom-dropdown-button" id="dropdown-button">Personality Type</div>
+      <div class="custom-dropdown-options" id="dropdown-options">
+        <div data-value="Adventurer">Adventurer</div>
+        <div data-value="Researcher">Researcher</div>
+        <div data-value="Artisian">Artisian</div>
+        <div data-value="Traveler">Traveler</div>
+        <div data-value="Butler">Butler</div>
+        <div data-value="Leader">Leader</div>
+        <div data-value="Judge">Judge</div>
+        <div data-value="Clergy">Clergy</div>
+        <div data-value="Pacifist">Pacifist</div>
+        <div data-value="Solo Player">Solo Player</div>
+        <div data-value="Bancho">Bancho</div>
+        <div data-value="Runner">Runner</div>
+        <div data-value="Challenger">Challenger</div>
+        <div data-value="Planner">Planner</div>
+        <div data-value="Samurai">Samurai</div>
+        <div data-value="Philosopher">Philosopher</div>
+        <div data-value="Martial Artist">Martial Artist</div>
+        <div data-value="Clown">Clown</div>
+        <div data-value="Sage">Sage</div>
+        <div data-value="Hero">Hero</div>
+        <div data-value="Gambler">Gambler</div>
+        <div data-value="Merchant">Merchant</div>
+        <div data-value="Collector">Collector</div>
+      </div>
+    </div>
+    <div class="table-container">
+      <!-- Positive Actions Column -->
+      <div class="column" id="positive-column">
+        <h3>Positive</h3>
+      </div>
+    
+      <!-- Negative Actions Column -->
+      <div class="column" id="negative-column">
+        <h3>Negative</h3>
+      </div>
+    </div>
   </main>
 
   <script src="script.js"></script>
