@@ -1,0 +1,96 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: center; /* Center the h1 text */
+  align-items: center;     /* Vertically align items in the header */
+  padding: 20px;
+  background-color: #f4f4f4;
+  position: relative; /* To make sure the hamburger is positioned properly */
+  width: 100%;
+  z-index: 100;
+}
+
+/* Make the header container use full width */
+.header h1 {
+  flex-grow: 1;
+  text-align: center;
+  margin-left: 50px; /* Ensure space for the hamburger button */
+  word-wrap: break-word; /* Allow wrapping of long words in the title */
+}
+
+/* Hamburger Menu Button */
+#hamburger-button {
+  position: absolute;  /* Position it to the left */
+  left: 20px;          /* Add some padding to the left */
+  top: 20px;           /* Add some padding to the top */
+  background: transparent; /* Remove background */
+  border: none;             /* Remove border */
+  cursor: pointer;         /* Pointer cursor */
+}
+
+/* Navigation Links (Hidden by default) */
+#nav-links {
+  display: none;
+  list-style-type: none;
+  position: absolute;
+  background-color: #fff;
+  top: calc(100% + 20px); /* Position below header with some margin */
+  left: 0;
+  width: 100%;
+  z-index: 10; /* Ensure the menu is above other content */
+  text-align: center;
+}
+
+#nav-links li {
+  margin: 10px 0;
+}
+
+#nav-links a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+  display: block;
+}
+
+/* Show nav links when the menu is active */
+#nav-links.active {
+  display: block;
+}
+
+/* Mobile Layout Adjustments */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column; /* Stack elements vertically in mobile view */
+    align-items: flex-start; /* Align items to the left for better space management */
+  }
+
+  /* Position the hamburger menu on the left and center the title */
+  #hamburger-button {
+    left: 20px;
+    top: 20px; /* Add a small margin from the top */
+  }
+
+  /* Adjust <h1> positioning */
+  .header h1 {
+    text-align: center;
+    margin-left: 50px; /* Space for the hamburger button */
+  }
+
+  /* Ensure the links are stacked vertically */
+  #nav-links a {
+    padding: 15px;
+    font-size: 1.2rem;
+  }
+
+  /* Adjust spacing for mobile content to prevent overlap */
+  main {
+    padding-top: 120px; /* Increased padding to avoid nav overlap on open */
+  }
+}
