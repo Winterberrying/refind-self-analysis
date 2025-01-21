@@ -41,30 +41,23 @@ document.addEventListener('click', (event) => {
   }
 });
 
+// Load the JSON file dynamically
+let datasets = {}; // Declare a global variable to store datasets
 
-// Example datasets for different personality types
-const datasets = {
-  Adventurer: [
-    { action: "Explored a new trail", value: 15 },
-    { action: "Helped someone lost", value: 20 },
-    { action: "Got injured while hiking", value: -10 },
-  ],
-  Researcher: [
-    { action: "Published a paper", value: 25 },
-    { action: "Missed a deadline", value: -5 },
-    { action: "Attended a conference", value: 10 },
-  ],
-  Leader: [
-    { action: "Motivated the team", value: 30 },
-    { action: "Missed an important meeting", value: -15 },
-    { action: "Won a project bid", value: 20 },
-  ],
-  Philosopher: [
-    { action: "Had a deep conversation", value: 10 },
-    { action: "Ignored a friend's advice", value: -5 },
-    { action: "Wrote an insightful essay", value: 20 },
-  ],
-};
+fetch('assets/personality_and_actions.json') // Adjust the path if needed
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then((data) => {
+    datasets = data; // Assign the loaded data to the global variable
+    console.log('Loaded datasets:', datasets);
+  })
+  .catch((error) => {
+    console.error('Error loading datasets.json:', error);
+  });
 
 // Select dropdown elements
 const dropdownButton = document.getElementById("dropdown-button");
@@ -81,14 +74,20 @@ dropdownButton.addEventListener("click", () => {
 dropdownOptions.addEventListener("click", (event) => {
   const selectedValue = event.target.getAttribute("data-value");
   if (selectedValue) {
-    dropdownButton.textContent = selectedValue;
+    dropdownButton.textContent = selectedValue; // Update the dropdown button text
     dropdownOptions.classList.remove("open");
-    populateCards(selectedValue);
+    populateCards(selectedValue); // Populate cards for the selected type
   }
 });
 
 // Function to populate cards
 function populateCards(personalityType) {
+  // Ensure datasets are loaded before proceeding
+  if (!datasets || !datasets[personalityType]) {
+    console.error('Data not loaded or personality type not found:', personalityType);
+    return;
+  }
+
   // Clear previous cards
   positiveColumn.innerHTML = "<h3>Positive</h3>";
   negativeColumn.innerHTML = "<h3>Negative</h3>";
