@@ -1,0 +1,99 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: center; /* Center the h1 text */
+  align-items: center;     /* Vertically align items in the header */
+  padding: 20px;
+  position: relative; /* To make sure the hamburger is positioned properly */
+  width: 100%;
+  z-index: 100;
+}
+
+/* Make the header container use full width */
+.header h1 {
+  flex-grow: 1;
+  text-align: center;
+  margin-left: 50px; /* Ensure space for the hamburger button */
+  word-wrap: break-word; /* Allow wrapping of long words in the title */
+}
+
+/* Hamburger Menu Button */
+#hamburger-button {
+  position: absolute;  /* Position it to the left */
+  left: 20px;          /* Add some padding to the left */
+  top: 20px;           /* Add some padding to the top */
+  background: transparent; /* Remove background */
+  border: none;             /* Remove border */
+  cursor: pointer;         /* Pointer cursor */
+  z-index: 1;
+}
+
+/* Navigation Links (Hidden by default) */
+#nav-links {
+  display: none;
+  list-style-type: none;
+  position: absolute;
+  background-color: #fff;
+  top: calc(100% + 20px); /* Position below header with some margin */
+  left: 20;
+  width: 40%;
+  border-radius: 10px;
+  z-index: 0; /* Ensure the menu is above other content */
+  text-align: left;
+}
+
+#nav-links li {
+  margin: 10px 0;
+}
+
+#nav-links a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+  display: block;
+}
+
+/* Show nav links when the menu is active */
+#nav-links.active {
+  display: block;
+  background-color: rgba(182, 162, 150, 0.815);
+}
+
+/* Style for the search bar */
+.search-bar-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.search-bar {
+  width: 80%;
+  max-width: 600px;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  padding: 10px 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.search-bar p {
+  align-items: center;
+  padding: 5px 5px;
+}
+
+.search-bar input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  padding: 5px;
+}
