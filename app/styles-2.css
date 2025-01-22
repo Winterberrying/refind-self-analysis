@@ -66,6 +66,15 @@
   background-color: rgba(182, 162, 150, 0.815);
 }
 
+/* Main Content */
+main {
+  padding-top: 80px; /* Add padding to prevent content overlap */
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+  justify-items: center;
+}
+
 /* Style for the search bar */
 .search-bar-container {
   display: flex;
@@ -74,7 +83,7 @@
 }
 
 .search-bar {
-  width: 80%;
+  width: 100%;
   max-width: 600px;
   display: flex;
   align-items: center;
@@ -96,4 +105,46 @@
   outline: none;
   font-size: 16px;
   padding: 5px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+.card {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+.card:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.card.selected {
+  background-color: #d1e7dd; /* Light green shade */
+  border-color: #0f5132; /* Darker green */
+  color: #0f5132;
+}
+h2 {
+  margin-top: 30px;
+  font-size: 24px;
+}
+
+#calculate-score {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+/* Mobile Layout Adjustments */
+@media (max-width: 768px) {
+  .container {
+    gap: 10px;
+  }
 }
