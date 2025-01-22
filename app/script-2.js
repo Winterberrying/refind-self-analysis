@@ -121,3 +121,28 @@ searchInput.addEventListener("keydown", function (event) {
     }
   }
 });
+
+document.getElementById("calculate-score").addEventListener("click", () => {
+  const actions = selectedActions
+
+  fetch("http://127.0.0.1:5000/compute-top-types", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ actions }),
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      if (data.error) {
+        document.getElementById("top3").textContent = `Error: ${data.error}`;
+      } else {
+        const results = data.top_personalities
+          .map(([type, score]) => `${type}: ${score.toFixed(2)}`)
+          .join("<br>");
+        document.getElementById("top3").innerHTML = `<h3>Top 3 Personality Types:</h3>${results}`;
+      }
+    })
+    .catch((error) => {
+      console.error("Error:", error);
+      document.getElementById("top3").textContent = "An error occurred.";
+    });
+});
